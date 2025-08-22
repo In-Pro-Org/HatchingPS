@@ -1,0 +1,13 @@
+name: HatchingPS
+id: ari:cloud:compass:eddcc978-84fc-448e-904c-0d4d7a6ccae6:component/dcebf165-b94d-4d6f-a806-e63f9a99f66a/f1327910-6fee-4f42-911a-5983e16aa3a7
+description: Framework that allows to deploy websites on github pages in no time!
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
